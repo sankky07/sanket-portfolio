@@ -76,8 +76,8 @@ const accentPalette = [
   ["Cyan", "#42C7D9"],
 ];
 const defaultAccent = "#B8794F";
-const resumeFile = `${import.meta.env.BASE_URL}public/assets/Sanket_Kumar_Sahu_Resume.pdf`;
-const profilePhoto = `${import.meta.env.BASE_URL}public/assets/sanket-profile.jpg`;
+const resumeFile = `${import.meta.env.BASE_URL}assets/Sanket_Kumar_Sahu_Resume.pdf`;
+const profilePhoto = `${import.meta.env.BASE_URL}assets/sanket-profile.jpg`;
 
 const skillGroups = {
   "LANGUAGES": ["Java", "JavaScript", "Python", "SQL"],
